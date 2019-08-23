@@ -1,0 +1,5 @@
+imagename: "lmoresi/uw_on_the_uw_user_cloud:2019.08.24_dev"
+description: "The underworld community (v2.8 test release)"
+unique_id : "uw-repo-example"
+documentation_url: "https://raw.githubusercontent.com/underworld-geodynamics-cloud/cloud-repo-example/master/uw-cloud/README.md",
+launch_url: "http://developer.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-geodynamics-cloud/cloud-repo-example&gh_path=/"
