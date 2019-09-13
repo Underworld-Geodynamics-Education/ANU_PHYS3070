@@ -1,5 +1,5 @@
 ## The image name is the docker hub location / tag
-imagename:  lmoresi/uw_user_cloud:2019.09.13ii_dev
+imagename:  lmoresi/uw_user_cloud:2019.09.13iii_dev
 
 ## The description is a string that may be auto-read and displayed to a user who is browsing for images
 description:  The underworld community (v2.8 test release)
