@@ -6,7 +6,7 @@ description:  The underworld community (v2.8 test release)
 
 ## The unique id maps to a directory in the users home directory on uw-cloud
 ## There is a sanitisation process and a unique tag is also added but something descriptive is best
-landing_place: lab/tree/uw-cloud/LandingPage.md
+landing_place: lab/tree/LandingPage.md
 
 ## A file that can be copied to the home directory to help the user navigate the contents of this repository.
 ## Notebooks and markdown files are known to work well. Should be a url to an actual file that can be retrieved
@@ -14,6 +14,6 @@ landing_place: lab/tree/uw-cloud/LandingPage.md
 
 ## This is entirely FYI - the uw-cloud url
 launch_url:  |
-         http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-geodynamics-cloud/cloud-repo-example&gh_path=PythonExamplesFolder
+         http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=Underworld-Geodynamics-Education/ANU_PHYS3070&gh_path=CourseContent
 launch_url_dev: |
-    http://developer.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-geodynamics-cloud/cloud-repo-example&gh_path=PythonExamplesFolder
+         http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=Underworld-Geodynamics-Education/ANU_PHYS3070&gh_path=CourseContent

@@ -1,5 +1,3 @@
-# cloud-repo-example
+# UWGeodynamics: Sinking Spheres, Buoyancy, Diffusion, Convection etc.
 
-How to create a repository that automatically launches on the uw-cloud
-
-The main repo contains the 'uw-cloud' folder with launch instructions
+Romain Beucher and Louis Moresi
