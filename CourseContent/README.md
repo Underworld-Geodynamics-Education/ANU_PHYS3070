@@ -16,6 +16,9 @@ Dr Romain Beucher and Louis Moresi
 ## Useful links:
 
 [UWGeodynamics Github Repository](https://github.com/underworldcode/UWGeodynamics)
+
 [UWGeodynamics Documentation](https://uwgeodynamics.readthedocs.io/en/latest/)
+
 [Underworld GitHub Repository](https://github.com/underworldcode/underworld2)
+
 [Underworld Documentation](https://underworld2.readthedocs.io/en/latest/)
